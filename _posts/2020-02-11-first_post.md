@@ -1,4 +1,3 @@
- #  Hello
+ # AI is here!!
 
-
-# Learn all about ANN's
+Learn all about ANN's
