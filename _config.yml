@@ -11,8 +11,8 @@ description: My experiences of learning and building AI apps ❤
 github_username: paulbilan
 
 # Email and twitter are optional:
-email: info@playchimp.com
-twitter_username: @paulbilan
+email:
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math:
