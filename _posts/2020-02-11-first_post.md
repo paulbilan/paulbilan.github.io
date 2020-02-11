@@ -1,3 +1,3 @@
- # AI is here!!
+ # AI is talking!!
 
 Learn all about ANN's
